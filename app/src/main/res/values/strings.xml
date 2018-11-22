@@ -42,6 +42,10 @@
     <string name="close">Close</string>
     <string name="announcement">Announcement</string>
     <string name="messages_will_be_sent_to_all_parents">Messages will be sent to all parents</string>
+    <string name="preference_lang_label">Language</string>
+    <string name="preference_summary">Specify desired language</string>
+    <string name="preference_lang_key">langKey</string>
+    <string name="preference_eng">English</string>
 
     <string-array name="evaluations_array">
         <item>Good</item>

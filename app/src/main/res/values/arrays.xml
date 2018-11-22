@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="preference_list_labels">
+        <item>@string/preference_lang</item>
+        <item>@string/preference_text_size</item>
+        <item>@string/preference_request_features</item>
+        <item>@string/preference_support</item>
+        <item>@string/preference_change_log</item>
+    </string-array>
+
+    <string-array name="preference_list_values">
+        <item>@string/preference_lang</item>
+        <item>@string/preference_text_size</item>
+        <item>@string/preference_request_features</item>
+        <item>@string/preference_support</item>
+        <item>@string/preference_change_log</item>
+    </string-array>
+
+    <string name="preference_lang">Language</string>
+    <string name="preference_text_size">Text Size</string>
+    <string name="preference_request_features">Request Features</string>
+    <string name="preference_support">Support</string>
+    <string name="preference_change_log">Change Log</string>
+</resources>
